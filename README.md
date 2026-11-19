@@ -1,4 +1,4 @@
-# nothumansearch-ai
+# Not Human Search
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nothumansearch-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nothumansearch.ai/
+Not Human Search provides a free agent‑readiness scoring service that evaluates how visible a website is to AI agents. It scores sites 0–100 across seven signals—including llms.txt, OpenAPI, MCP, and Schema.org—offering insights and alerts when readiness changes. The platform indexes over 8,000 agent‑ready sites and helps developers improve discoverability for AI agents.
+
+**Areas:** AI · Agent-Readiness · Search · Free-Service · Analytics
+
+## Not Human Search on APIs.io
+
+Everything profiled for Not Human Search is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nothumansearch-ai/](https://apis.io/providers/nothumansearch-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- [Not Human Search Action Interests API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-action-interests-api/) — The Action Interests API from Not Human Search — 1 operation(s) for action interests.
+- [Not Human Search Action Receipts API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-action-receipts-api/) — The Action Receipts API from Not Human Search — 1 operation(s) for action receipts.
+- [Not Human Search Action Tickets API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-action-tickets-api/) — The Action Tickets API from Not Human Search — 2 operation(s) for action tickets.
+- [Not Human Search Api Keys API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-api-keys-api/) — The Api Keys API from Not Human Search — 1 operation(s) for api keys.
+- [Not Human Search Catalog API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-catalog-api/) — The Catalog API from Not Human Search — 1 operation(s) for catalog.
+- [Not Human Search Categories API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-categories-api/) — The Categories API from Not Human Search — 1 operation(s) for categories.
+- [Not Human Search Check API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-check-api/) — The Check API from Not Human Search — 1 operation(s) for check.
+- [Not Human Search Checkout API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-checkout-api/) — The Checkout API from Not Human Search — 1 operation(s) for checkout.
+- [Not Human Search Monitor API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-monitor-api/) — The Monitor API from Not Human Search — 1 operation(s) for monitor.
+- [Not Human Search Not Human Search API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-not-human-search-api-api/) — The Not Human Search API API from Not Human Search — 1 operation(s) for not human search api.
+- [Not Human Search Provider API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-provider-api/) — The Provider API from Not Human Search — 14 operation(s) for provider.
+- [Not Human Search Quote API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-quote-api/) — The Quote API from Not Human Search — 1 operation(s) for quote.
+- [Not Human Search Search API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-search-api/) — The Search API from Not Human Search — 1 operation(s) for search.
+- [Not Human Search Site API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-site-api/) — The Site API from Not Human Search — 1 operation(s) for site.
+- [Not Human Search Stats API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-stats-api/) — The Stats API from Not Human Search — 1 operation(s) for stats.
+- [Not Human Search Submit API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-submit-api/) — The Submit API from Not Human Search — 1 operation(s) for submit.
+- [Not Human Search Top API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-top-api/) — The Top API from Not Human Search — 1 operation(s) for top.
+- [Not Human Search Verify Mcp API](https://apis.io/apis/nothumansearch-ai/nothumansearch-ai-verify-mcp-api/) — The Verify Mcp API from Not Human Search — 1 operation(s) for verify mcp.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Nothumansearch Ai Webhooks](https://apis.io/asyncapis/nothumansearch-ai/nothumansearch-ai-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Not Human Search Agentic Access](https://apis.io/agentic-access/nothumansearch-ai/nothumansearch-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ActionInterestCallContract](https://apis.io/schemas/nothumansearch-ai/nothumansearch-ai-action-interest-call-contract/)
+- [ActionTicketPreparationResponse](https://apis.io/schemas/nothumansearch-ai/nothumansearch-ai-action-ticket-preparation-response/)
+- [ProviderClaim](https://apis.io/schemas/nothumansearch-ai/nothumansearch-ai-provider-claim/)
+- [ProviderCommercialAcceptanceRequest](https://apis.io/schemas/nothumansearch-ai/nothumansearch-ai-provider-commercial-acceptance-request/)
+- [PublicProviderOffer](https://apis.io/schemas/nothumansearch-ai/nothumansearch-ai-public-provider-offer/)
+- [SelectedSiteDetail](https://apis.io/schemas/nothumansearch-ai/nothumansearch-ai-selected-site-detail/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nothumansearch Ai Context](https://apis.io/jsonld/nothumansearch-ai/nothumansearch-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Not Human Search API Rules](https://apis.io/rules/nothumansearch-ai/nothumansearch-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Not Human Search Authentication](https://apis.io/security/nothumansearch-ai/nothumansearch-ai-authentication/)
+- [Not Human Search Domain Security](https://apis.io/security/nothumansearch-ai/nothumansearch-ai-domain-security/)
+- [Not Human Search Vulnerability Disclosure](https://apis.io/security/nothumansearch-ai/nothumansearch-ai-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nothumansearch.ai/)
+- [Documentation](https://nothumansearch.ai/guide)
+- [Getting started](https://nothumansearch.ai/score)
+- [API reference](https://nothumansearch.ai/openapi.yaml)
+- [Security](https://nothumansearch.ai/tag/security)
+- [Privacy policy](https://nothumansearch.ai/privacy)
+- [Status](https://nothumansearch.ai/status)
+
+## API Evangelist rating
+
+**Kin Score 52.7** — developing · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 62.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.0 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 19.1 |
+
+**Agent readiness 44.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nothumansearch-ai/](https://apis.io/providers/nothumansearch-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Not Human Search: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nothumansearch-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
